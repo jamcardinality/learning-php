@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hello World</title>
+</head>
+
+<body bgcolor="#f3f3f3">
+  <center>
+    <h1>
+        <?php 
+          // echo "Hello to my girlfriend \"Demi\"";
+          echo "Hello World!";
+        ?>
+    </h1>
+  </center>
+    
+</body>
+</html>
